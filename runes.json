@@ -1,0 +1,366 @@
+[
+    {
+        "Caractéristique": "Initiative",
+        "Nom": "Ini",
+        "Rune normale": 1,
+        "Rune Pa": "3",
+        "Rune Ra": "10"
+    },
+    {
+        "Caractéristique": "Poids portable",
+        "Nom": "Pod",
+        "Rune normale": 2.5,
+        "Rune Pa": "7.5",
+        "Rune Ra": "25"
+    },
+    {
+        "Caractéristique": "Vitalité",
+        "Nom": "Vi",
+        "Rune normale": 1,
+        "Rune Pa": "3",
+        "Rune Ra": "10"
+    },
+    {
+        "Caractéristique": "Force",
+        "Nom": "Fo",
+        "Rune normale": 1,
+        "Rune Pa": "3",
+        "Rune Ra": "10"
+    },
+    {
+        "Caractéristique": "Intelligence",
+        "Nom": "Ine",
+        "Rune normale": 1,
+        "Rune Pa": "3",
+        "Rune Ra": "10"
+    },
+    {
+        "Caractéristique": "Chance",
+        "Nom": "Cha",
+        "Rune normale": 1,
+        "Rune Pa": "3",
+        "Rune Ra": "10"
+    },
+    {
+        "Caractéristique": "Agilité",
+        "Nom": "Age",
+        "Rune normale": 1,
+        "Rune Pa": "3",
+        "Rune Ra": "10"
+    },
+    {
+        "Caractéristique": "Puissance",
+        "Nom": "Pui",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": "20"
+    },
+    {
+        "Caractéristique": "Puissance (pièges)",
+        "Nom": "Pi Per",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": "20"
+    },
+    {
+        "Caractéristique": "Résistance fixe neutre",
+        "Nom": "Ré Neutre",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance fixe terre",
+        "Nom": "Ré Terre",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance fixe feu",
+        "Nom": "Ré Feu",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance fixe eau",
+        "Nom": "Ré Eau",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance fixe air",
+        "Nom": "Ré Air",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance fixe poussée",
+        "Nom": "Ré Pou",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance fixe critique",
+        "Nom": "Ré Cri",
+        "Rune normale": 2,
+        "Rune Pa": "6",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance en % neutre",
+        "Nom": "Ré Per Neutre",
+        "Rune normale": 6,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance en % terre",
+        "Nom": "Ré Per Terre",
+        "Rune normale": 6,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance en % feu",
+        "Nom": "Ré Per Feu",
+        "Rune normale": 6,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance en % eau",
+        "Nom": "Ré Per Eau",
+        "Rune normale": 6,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance en % air",
+        "Nom": "Ré Per Air",
+        "Rune normale": 6,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Sagesse",
+        "Nom": "Sa",
+        "Rune normale": 3,
+        "Rune Pa": "9",
+        "Rune Ra": "30"
+    },
+    {
+        "Caractéristique": "Prospection",
+        "Nom": "Prospe",
+        "Rune normale": 3,
+        "Rune Pa": "9",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Tacle",
+        "Nom": "Tac",
+        "Rune normale": 4,
+        "Rune Pa": "12",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Fuite",
+        "Nom": "Fui",
+        "Rune normale": 4,
+        "Rune Pa": "12",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages neutre",
+        "Nom": "Do Neutre",
+        "Rune normale": 5,
+        "Rune Pa": "15",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages terre",
+        "Nom": "Do Terre",
+        "Rune normale": 5,
+        "Rune Pa": "15",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages feu",
+        "Nom": "Do Feu",
+        "Rune normale": 5,
+        "Rune Pa": "15",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages eau",
+        "Nom": "Do Eau",
+        "Rune normale": 5,
+        "Rune Pa": "15",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages air",
+        "Nom": "Do Air",
+        "Rune normale": 5,
+        "Rune Pa": "15",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages poussée",
+        "Nom": "Do Pou",
+        "Rune normale": 5,
+        "Rune Pa": "15",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages critiques",
+        "Nom": "Do Cri",
+        "Rune normale": 5,
+        "Rune Pa": "15",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages pièges",
+        "Nom": "Pi",
+        "Rune normale": 5,
+        "Rune Pa": "15",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommages",
+        "Nom": "Do",
+        "Rune normale": 20,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Retrait PM",
+        "Nom": "Ret Pme",
+        "Rune normale": 7,
+        "Rune Pa": "21",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Retrait PA",
+        "Nom": "Ret Pa",
+        "Rune normale": 7,
+        "Rune Pa": "21",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance PM",
+        "Nom": "Ré Pme",
+        "Rune normale": 7,
+        "Rune Pa": "21",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance PA",
+        "Nom": "Ré Pa",
+        "Rune normale": 7,
+        "Rune Pa": "21",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Soin",
+        "Nom": "So",
+        "Rune normale": 10,
+        "Rune Pa": "30",
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Coups critiques",
+        "Nom": "Cri",
+        "Rune normale": 10,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Renvoi de dommage",
+        "Nom": "Do Ren",
+        "Rune normale": 10,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommage en % arme",
+        "Nom": "Do Per Ar",
+        "Rune normale": 15,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommage en % sort",
+        "Nom": "Do Per So",
+        "Rune normale": 15,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommage en % distance",
+        "Nom": "Do Per Di",
+        "Rune normale": 15,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Dommage en % mélée",
+        "Nom": "Do Per Mé",
+        "Rune normale": 15,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance en % distance",
+        "Nom": "Ré Per Di",
+        "Rune normale": 15,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Résistance en % mélée",
+        "Nom": "Ré Per Mé",
+        "Rune normale": 15,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Invocation",
+        "Nom": "Invo",
+        "Rune normale": 30,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Portée",
+        "Nom": "Po",
+        "Rune normale": 51,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "PM",
+        "Nom": "Ga Pme",
+        "Rune normale": 90,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "PA",
+        "Nom": "Ga Pa",
+        "Rune normale": 100,
+        "Rune Pa": null,
+        "Rune Ra": null
+    },
+    {
+        "Caractéristique": "Arme de chasse",
+        "Nom": "Rune de chasse",
+        "Rune normale": 5,
+        "Rune Pa": null,
+        "Rune Ra": null
+    }
+]

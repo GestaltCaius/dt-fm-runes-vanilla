@@ -1,0 +1,53 @@
+Caractéristique                       ,                   Nom      ,           Rune normale     ,    Rune Pa        ,   Rune Ra
+Initiative                            ,                          Ini                            , 1                              , 3                    , 10
+Poids portable                        ,                   Pod                         , 2.5                           , 7.5                  , 25
+Vitalité                              ,                           Vi                             , 1                              , 3                    , 10
+Force                                 ,                           Fo                           , 1                               , 3                    , 10
+Intelligence                          ,                       Ine                          , 1                               , 3                    , 10
+Chance                                ,                        Cha                         , 1                               , 3                    , 10
+Agilité                               ,                           Age                         , 1                               , 3                    , 10
+Puissance                             ,                      Pui                          , 2                               , 6                    , 20
+Puissance (pièges)                    ,               Pi Per                      , 2                               , 6                    , 20
+Résistance fixe neutre                ,             Ré Neutre               , 2                               , 6                     , -
+Résistance fixe terre                 ,               Ré Terre                  , 2                               , 6                     , -
+Résistance fixe feu                   ,                Ré Feu                    , 2                               , 6                     , -
+Résistance fixe eau                   ,               Ré Eau                    , 2                               , 6                     , -
+Résistance fixe air                   ,                 Ré Air                      , 2                               , 6                     , -
+Résistance fixe poussée               ,          Ré Pou                    , 2                               , 6                     , -
+Résistance fixe critique              ,             Ré Cri                      , 2                               , 6                     , -
+Résistance en % neutre                ,           Ré Per Neutre        , 6                                , -                     , -
+Résistance en % terre                 ,             Ré Per Terre           , 6                                , -                     , -
+Résistance en % feu                   ,              Ré Per Feu             , 6                                , -                     , -
+Résistance en % eau                   ,             Ré Per Eau             , 6                                , -                     , -
+Résistance en % air                   ,               Ré Per Air               , 6                                , -                     , -
+Sagesse                               ,                       Sa                            , 3                               , 9                   , 30
+Prospection                           ,                    Prospe                    , 3                                , 9                    , -
+Tacle                                 ,                          Tac                          , 4                                , 12                  , -
+Fuite                                 ,                           Fui                           , 4                               , 12                  , -
+Dommages neutre                       ,             Do Neutre              , 5                                , 15                  , -
+Dommages terre                        ,               Do Terre                 , 5                                , 15                  , -
+Dommages feu                          ,                Do Feu                   , 5                                , 15                  , -
+Dommages eau                          ,               Do Eau                   , 5                                , 15                  , -
+Dommages air                          ,                 Do Air                     , 5                                , 15                  , -
+Dommages poussée                      ,          Do Pou                    , 5                               , 15                  , -
+Dommages critiques                    ,            Do Cri                      , 5                               , 15                  , -
+Dommages pièges                       ,             Pi                             , 5                               , 15                  , -
+Dommages                              ,                   Do                           , 20                               , -                    , -
+Retrait PM                            ,                      Ret Pme                 , 7                               , 21                  , -
+Retrait PA                            ,                       Ret Pa                     , 7                               , 21                  , -
+Résistance PM                         ,                 Ré Pme                  , 7                                , 21                  , -
+Résistance PA                         ,                  Ré Pa                      , 7                                , 21                  , -
+Soin                                  ,                           So                           , 10                              , 30                  , -
+Coups critiques                       ,                  Cri                           , 10                                , -                   , -
+Renvoi de dommage                     ,           Do Ren                   , 10                                , -                   , -
+Dommage en % arme                     ,          Do Per Ar               , 15                                , -                   , -
+Dommage en % sort                     ,            Do Per So              , 15                                , -                   , -
+Dommage en % distance                 ,        Do Per Di               , 15                                , -                   , -
+Dommage en % mélée                    ,         Do Per Mé              , 15                                , -                   , -
+Résistance en % distance              ,         Ré Per Di                , 15                                , -                   , -
+Résistance en % mélée                 ,           Ré Per Mé              , 15                                , -                   , -
+Invocation                            ,                      Invo                         , 30                                , -                   , -
+Portée                                ,                         Po                            , 51                                , -                   , -
+PM                                    ,                           Ga Pme                  , 90                                , -                    , -
+PA                                    ,                            Ga Pa                      , 100                              , -                    , -
+Arme de chasse                        ,                Rune de chasse    , 5                                  , -                    , -
