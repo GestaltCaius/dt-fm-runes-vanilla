@@ -112,45 +112,10 @@
         "Rune Ra": null
     },
     {
-        "Caractéristique": "",
-        "Nom": "",
-        "Rune normale": null,
-        "Rune Pa": null,
-        "Rune Ra": null
-    },
-    {
         "Caractéristique": "Prospection",
         "Nom": "Prospe",
         "Rune normale": 3,
         "Rune Pa": 9,
-        "Rune Ra": null
-    },
-    {
-        "Caractéristique": "",
-        "Nom": "",
-        "Rune normale": null,
-        "Rune Pa": null,
-        "Rune Ra": null
-    },
-    {
-        "Caractéristique": "",
-        "Nom": "",
-        "Rune normale": null,
-        "Rune Pa": null,
-        "Rune Ra": null
-    },
-    {
-        "Caractéristique": "",
-        "Nom": "",
-        "Rune normale": null,
-        "Rune Pa": null,
-        "Rune Ra": null
-    },
-    {
-        "Caractéristique": "",
-        "Nom": "",
-        "Rune normale": null,
-        "Rune Pa": null,
         "Rune Ra": null
     },
     {
@@ -231,13 +196,6 @@
         "Rune Ra": null
     },
     {
-        "Caractéristique": "",
-        "Nom": "",
-        "Rune normale": null,
-        "Rune Pa": null,
-        "Rune Ra": null
-    },
-    {
         "Caractéristique": "Résistance en % neutre",
         "Nom": "Ré Per Neutre",
         "Rune normale": 6,
@@ -269,20 +227,6 @@
         "Caractéristique": "Résistance en % air",
         "Nom": "Ré Per Air",
         "Rune normale": 6,
-        "Rune Pa": null,
-        "Rune Ra": null
-    },
-    {
-        "Caractéristique": "",
-        "Nom": "",
-        "Rune normale": null,
-        "Rune Pa": null,
-        "Rune Ra": null
-    },
-    {
-        "Caractéristique": "",
-        "Nom": "",
-        "Rune normale": null,
         "Rune Pa": null,
         "Rune Ra": null
     },
